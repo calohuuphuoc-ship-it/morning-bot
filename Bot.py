@@ -3,7 +3,7 @@ import random
 import requests
 
 TOKEN = "8506256564:AAFKR3P_asc-p-03UdPy5gp59iYOn3ІMHE"
-CHAT_ID = "6034352335"
+CHAT_ID = "8506256564"
 
 MORNING_WISHES = [
     "☀️ Chào buổi sáng! Chúc bạn một ngày mới ngập tràn năng lượng, làm việc hiệu quả và gặp nhiều may mắn! 💪",
